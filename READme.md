@@ -1,4 +1,4 @@
-# In-Depth Analysis and Comparison of Parallelism Techniques in Python & Go - [video](https://youtube.com/playlist?list=PLtRAgw3FCYeADHsZmx2gzM52m-HiRQx0h), [paper](https://drive.google.com/file/d/1cnTBgAMEtmUOw05zwpcfp0NQ4Qxd0DbU/view?usp=sharing)
+# In-Depth Analysis and Comparison of Parallelism Techniques in Python & Go - [video](https://youtube.com/playlist?list=PLtRAgw3FCYeADHsZmx2gzM52m-HiRQx0h), [paper](N-CS159.pdf)
 
 [![python 3.9.6](https://img.shields.io/badge/Python-3.10.4-<COLOR>.svg)](https://shields.io/)
 [![go 1.18.2](https://img.shields.io/badge/Go-1.18.2-<COLOR>.svg)](https://shields.io/)
